@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">GymApp2</string>
+    <string name="title_home">Rutinas</string>
+    <string name="title_calentamiento">Calentamiento</string>
+    <string name="title_recompensa">Recompensa</string>
+    <string name="title_perfil">Perfil</string>
+
+    <string name="correo">correo</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="title_activity_login">Login</string>
+    <string name="registrar">registrar</string>
+
+    <string name="nombre">nombre</string>
+    <string name="apellido">apellido</string>
+    <string name="f_nacimiento">fecha_nacimiento</string>
+    <string name="altura">altura</string>
+    <string name="peso">peso</string>
+    <string name="contrasena2">Reingrese contrasena</string>
+    <string name="btnRegistrar">Registrar</string>
+
+    <string name="opcional">opcional</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">blabla</string>
+
+    <string name="continuar_btn">continuar</string>
+    <string name="Masa_Muscular">Masa Muscular</string>
+    <string name="meta_peso">meta peso</string>
+    <string name="meta_masaMuscular">masa Muscular</string>
+    <string name="peso_M1">as</string>
+    <string name="peso_M2">d</string>
+    <string name="peso_M3">d</string>
+    <string name="MMM1">MMM2</string>
+    <string name="MMM2">MMM2</string>
+    <string name="MMM3">MMM3</string>
+
+    <string name="Lunes">Lunes</string>
+    <string name="Martes">Martes</string>
+    <string name="Miercoles">Miercoles</string>
+    <string name="Jueves">Jueves</string>
+    <string name="Viernes">Viernes</string>
+    <string name="Sabado">Sabado</string>
+    <string name="Domingo">Domingo</string>
+</resources>
